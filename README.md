@@ -2,7 +2,7 @@
 
 **Interactive tracker for a chronological MCU marathon: progress tracking, ratings, data export/import and an animated content-map visualization. Actively maintained.**
 
-🔗 **Live demo:** `https://<tu-usuario>.github.io/<nombre-del-repositorio>/`  *(sustituye por tu enlace real)*
+🔗 **Live demo:** https://mrworldwide327.github.io/mcu-marathon-tracker/
 
 Single-file web app (vanilla HTML/CSS/JS, no dependencies, no build step, no tracking, no third-party images).
 
